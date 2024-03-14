@@ -1,6 +1,6 @@
 # project demo link
 
-https://mbsjokesapp.netlify.app
+
 
 # Dependencies Used
 
